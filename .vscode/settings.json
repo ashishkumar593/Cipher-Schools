@@ -60,5 +60,8 @@
     "origin",
     "upstream",
     "Cipher"
-  ]
+  ],
+  "files.associations": {
+    "ostream": "cpp"
+  }
 }
