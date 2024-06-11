@@ -62,6 +62,7 @@
     "Cipher"
   ],
   "files.associations": {
-    "ostream": "cpp"
+    "ostream": "cpp",
+    "string": "cpp"
   }
 }
